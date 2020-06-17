@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\bin\Debug\族谱管理系统.exe.config
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\bin\Debug\族谱管理系统.exe
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\bin\Debug\族谱管理系统.pdb
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.登录选择.resources
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.Properties.Resources.resources
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.exe
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.pdb
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.管理员登录.resources
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.信息修改.resources
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.成员管理.resources
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.主功能.resources
+C:\Users\DELL\source\repos\族谱管理系统\族谱管理系统\obj\Debug\族谱管理系统.Form1.resources
