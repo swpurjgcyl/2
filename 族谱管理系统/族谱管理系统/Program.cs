@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 族谱管理系统
+namespace 电子族谱树状图
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace 族谱管理系统
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new 登录选择());
+            Application.Run(new Form1());
         }
     }
 }
